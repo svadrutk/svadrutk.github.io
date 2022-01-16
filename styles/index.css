@@ -1,0 +1,70 @@
+
+@font-face {
+    font-family: "CMU Serif";
+    src: url(fonts/cmunrm.ttf);
+  }
+@font-face {
+    font-family: "SF Pro Display"; 
+    src: url(fonts/SF-Pro-Display-Medium.otf);
+    font-weight: bold;
+}
+@keyframes moveup
+{
+  from {display: none; transform: translateY(10px); opacity: 0;}
+  to { transform: translateY(0); opacity: 1;}
+}
+* {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.title {
+    font-family: "SF Pro Display";
+    font-size: 300%;
+    justify-content: left;
+    margin-bottom: 1vw;
+
+
+}
+.subtitle {
+    font-family: "SF Pro Display";
+    font-size: 250%;
+    justify-content: left;
+    margin-bottom: 1vw;
+
+}
+p {
+    font-family: "CMU Serif";
+    font-size: 17px;
+    justify-content: left;
+}
+a {
+    color: #1906a7;
+    text-decoration: none;
+    -moz-transition: all 0.1s ease-in;
+    /* WebKit */
+    -webkit-transition: all 0.1s ease-in;
+    /* Opera */
+    -o-transition: all 0.1s ease-in;
+    /* Standard */
+    transition: all 0.1s ease-in;
+    font-family: "CMU Serif";
+    font-size: 17px;
+    
+}
+a:hover {
+    text-decoration: none;
+}
+
+.content {
+    padding: 10px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+@media all and (min-width: 900px) {
+    body {
+        max-width: 500px;
+    }
+}
