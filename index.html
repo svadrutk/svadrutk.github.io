@@ -2,25 +2,29 @@
 <head>
     <title>Svadrut Kukunooru</title>
     <link rel="stylesheet" href="styles/index.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script>
-        $(document).ready(function(){
-            $(".view-btn").click(function(){
-                $(this).text($(this).text() == 'discord' ? 'alibi#2536' : 'discord');
-            });
-        });
-    </script>
+    <meta name="Svadrut's Website" content="Svadrut Kukunooru's Personal Website">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="logo.png" type="image/x-icon">
+
+<link rel="manifest" href="manifest.json">
 </head>
 <html lang="en">
 <body>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/service-worker.js');
+        }
+    </script>
+
 <div class="content">
     <h1 class="title">Hi, I'm <span style="color: #000000;">Svadrut.</span></h1>
     <hr>
     <p>I'm a freshman studying <span style="color: #000000;">Computer Science</span> at the University of Wisconsin - Madison. I'm interested in the applications of <span style="color: #000000;">artifical intelligence</span>, the intricacies of <span style="color: #000000;">social interaction</span> be it online or offline, and the ever-decreasing gap between <span style="color: #000000;">humanity and technology</span>. I have a <a href="https://svadrut.substack.com" target="_blank">blog</span></a> where I write about these subjects (among others). Give it a read!</p>
 <h2 class="subtitle">Contact Me</h2>
 <hr>
-<p>You can say hi via a <a class="link" rel="noopener" href="https://twitter.com/svadrut">twitter</a> or <a class="link" rel="noopener" target="_blank" href="https://instagram.com/svadrut">instagram</a> DM, or just <a class="link" rel="noopener" target="_blank" href="mailto:kukunoorusvadrut@gmail.com">email</a> me. I'm active on <a class="link view-btn" href="" onclick="return false;">discord</a> as well.</p>
+<p>You can say hi via a <a class="link" rel="noopener" href="https://twitter.com/svadrut">twitter</a> or <a class="link" rel="noopener" target="_blank" href="https://instagram.com/svadrut">instagram</a> DM, or just <a class="link" rel="noopener" target="_blank" href="mailto:kukunoorusvadrut@gmail.com">email</a> me. I'm active on discord as well.</p>
 <p>Here's my <a class="link" rel="noopener" href="https://github.com/angrypanda1/college-1/blob/main/resume/resume.pdf">resumé</a>.</p>
 </div>
 <span id="content-strings"></span>

@@ -2,11 +2,15 @@
 @font-face {
     font-family: "CMU Serif";
     src: url(fonts/cmunrm.ttf);
+    font-display: swap;
+
   }
 @font-face {
     font-family: "SF Pro Display"; 
     src: url(fonts/SF-Pro-Display-Medium.otf);
     font-weight: bold;
+    font-display: swap;
+
 }
 @keyframes moveup
 {
