@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: "CMU"; 
+    src: url(fonts/cmunrm.ttf);
+}
+
+* {
+    font-family: "CMU";
+}
+a {
+    text-decoration: none; 
+    color: blue;
+}
+.big {
+    position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
