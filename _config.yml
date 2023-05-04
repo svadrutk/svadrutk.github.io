@@ -29,7 +29,7 @@ twitter_username: svadrut
 github_username:  svadrutk
 
 # Build settings
-remote_theme: hitchens-theme
+remote_theme: patdryburgh/hitchens 
 plugins:
   - jekyll-feed
 show_excerpts: true
