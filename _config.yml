@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   by svad. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://svadrutk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: svadrutk.github.io
 twitter_username: svadrut
 github_username:  svadrutk
 
