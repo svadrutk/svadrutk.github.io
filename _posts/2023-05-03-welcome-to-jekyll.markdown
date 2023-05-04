@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "feels."
+date:   2021-10-21 23:28:06 -0500
+categories: jekyll update
+---
+I’m going to sleep at 2 A.M. while thinking about the assignments piling up this week, and I had a sobering thought.
+
+I can’t recall the last time I’ve been truly happy.
+
+Sure, I’ve had my achievements and awards, but in the moment, I’ve always thought about if I had done this better or this sooner, I would have been better off. An example? How about the time I got accepted to the school I’m attending right now, the University of Wisconsin? I’m sitting at my computer, staring at the acceptance letter, and I’m FUCKING THINKING about not getting accepted into a better college, and having to “settle” for this one.
+
+What even is happiness, anyway? Certain stimuli trigger the release of dopamine in our brain, and that makes us feel good. I already know that you can’t always be happy — if that was the case, happiness would lose its meaning, like in The Giver. You need to experience sadness to truly appreciate the beauty of happiness.
+
+I had a pretty toxic friend group in high school.
+
+It wasn’t that everything they said to me was negative, it’s just that nothing they said to me registered as good. So at the time, I did not perceive the friendships I had as necessarily negative (spoiler alert: they were), but just as something. And I thought that was the norm, until I came to this school and met people who genuinely cared about my emotional well-being. I honestly don’t know how I would have turned out if I continued to have friends that constantly shit on me and justified it as “banter” — probably a sociopath who hated everyone and manipulated them for their own amusement. Actually, never mind — I don’t think I’d be smart enough to do that. I’d probably just turn into a misanthropist. But yeah, most of my friends in high school were pretty shitty people in general — I just didn’t see it at the time.
+
+The crux of it is, I don’t really know how to be happy. I have some ideas, but I don’t know if they’ll work or not. For now, I’ll focus on the simplest one, building my self-confidence. I’m going to try to go to the gym more often — not skip a few days and go when I feel like it, but force myself to make it a painful routine, then a habit, then a reward. I’ve always been a bit insecure about my body, since I’m like severely underweight and also lowkey look like a stick, so I’m hoping that a better body will equate to me thinking better about myself (as well as helping me realize that effort yields results), therefore boosting my self-esteem. Side note: I also think the validation from my new friends about my appearance and my personality is also really helping me build it up, so if one of you sees this, keep that up; it’s really helping.
+
+I know it’ll be hard to do, but if I try, I’ll be okay for sure.
+
