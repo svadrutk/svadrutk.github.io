@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "optimism."
-date: 2023-05-23 22:57:00 -0500 
+date: 2023-05-15 22:57:00 -0500 
 categories: jekyll update
 ---
-
 I've been busy with procrastinating on assignments and getting rejected from internships to properly commit time to this blog, so apologies for not writing for so long to my nonexistent readers. I will hopefully change that over this summer, but I'll only write about stuff when I feel like it.
 
 
