@@ -315,14 +315,24 @@ code.highlighter-rouge {
   src: url("http://localhost:4000/assets/fonts/cmunrm.eot"); /* IE9 Compat Modes */
   src: local("CMU Serif"), local("CMUSerif-Regular"), url("http://localhost:4000/assets/fonts/cmunrm.eot?#iefix") format("embedded-opentype"), url("http://localhost:4000/assets/fonts/cmunrm.woff") format("woff"), url("http://localhost:4000/assets/fonts/cmunrm.ttf") format("truetype"), url("http://localhost:4000/assets/fonts/cmunrm.svg#CMUSerif") format("svg"); /* Legacy iOS */
 }
+
+@font-face {
+  font-family: "CMU Concrete";
+  font-style: normal; 
+  font-weight: 400; 
+  font-display: auto; 
+  src: url("https://localhost:4000/assets/fonts/cmunorm.ttf") format("truetype");
+}
 body {
   background: #ffffff;
   color: #0b0404;
-  font-family: "CMU Serif", Garamond, "Times New Roman", serif;
   font-size: 1.3125em;
+  font-family: "CMU Concrete";
   line-height: 1.5;
 }
-
+h1, h2 {
+  font-family: "CMU Serif", Garamond, "Times New Roman", serif !important;
+}
 h1 {
   font-size: 3em;
   margin: 0.5em auto;
@@ -655,6 +665,7 @@ figcaption {
   text-align: justify;
   text-indent: 1.5em;
   text-justify: inter-word;
+  
 }
 
 .post p:first-of-type,
